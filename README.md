@@ -1,1 +1,1 @@
-# Breast-Cancer-Classification-with-Neural-Network-DP
+The "Breast Cancer Classification with Neural Network" project focuses on developing a model to classify breast cancer tumors as benign or malignant using deep learning techniques. Here's a brief overview:
